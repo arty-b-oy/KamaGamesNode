@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KamaGamesNode/1.0.0": {
+        "runtime": {
+          "KamaGamesNode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KamaGamesNode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

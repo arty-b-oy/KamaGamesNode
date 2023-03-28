@@ -1,0 +1,15 @@
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/bin/Debug/net6.0/KamaGamesNode
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/bin/Debug/net6.0/KamaGamesNode.deps.json
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/bin/Debug/net6.0/KamaGamesNode.runtimeconfig.json
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/bin/Debug/net6.0/KamaGamesNode.dll
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/bin/Debug/net6.0/KamaGamesNode.pdb
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/obj/Debug/net6.0/KamaGamesNode.csproj.AssemblyReference.cache
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/obj/Debug/net6.0/KamaGamesNode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/obj/Debug/net6.0/KamaGamesNode.AssemblyInfoInputs.cache
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/obj/Debug/net6.0/KamaGamesNode.AssemblyInfo.cs
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/obj/Debug/net6.0/KamaGamesNode.csproj.CoreCompileInputs.cache
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/obj/Debug/net6.0/KamaGamesNode.dll
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/obj/Debug/net6.0/refint/KamaGamesNode.dll
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/obj/Debug/net6.0/KamaGamesNode.pdb
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/obj/Debug/net6.0/KamaGamesNode.genruntimeconfig.cache
+/Users/beregart/Projects/KamaGamesNode/KamaGamesNode/obj/Debug/net6.0/ref/KamaGamesNode.dll
